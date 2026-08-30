@@ -1,0 +1,12 @@
+Task,Category,Status
+"""How should I staff my coffee shop this weekend?""",null,Pending
+"""How should I staff my coffee shop this weekend?""",Staffing,Pending
+"The 2026 graduation schedule was just posted. It's the same schedule as last year. Can you review last year's POS data to help me prepare for this year?
+Saturday, June 13:
+College of Business (8:30 a.m.)
+College of Science and Mathematics (12:30 p.m.)
+College of Liberal Arts (4:30 p.m.)
+Sunday, June 14:
+College of Agriculture (8:30 a.m.)
+College of Architecture (12:30 p.m.)
+College of Engineering (4:30 p.m.)",staffing ,Pending
